@@ -1,0 +1,5 @@
+project_id = "cxretrzlhzsijiegyiwl"
+
+[functions.process-contract]
+verify_jwt = true
+
